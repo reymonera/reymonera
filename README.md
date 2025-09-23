@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @reymonera
-- 👀 I’m interested in bioinformatics/computational biology and programming in general
-- 🌱 I’m currently learning how to refine my programming and trying to get into machine learning/AI stuff (with meaning!!!)
-- 💞️ I’m looking to collaborate on beginner programming stuff
-- 📫 How to reach me: @reymonera if you wanna ask me something about being awesome
+Hi, I'm Camila and this is my GitHub repository that has whatever, really. Sometimes there are serious bioinformatics tools, sometimes it is just me updating my webpage, and sometimes it is just me messing around with CSS, that has practically nothing to do with bioinformatics in the first place. When I'm not here I'm probably reading low- or high-quality literature, watching YouTube videoessays, talking about videogames on Discord, fighting on Reddit or biking.
 
 <!---
 reymonera/reymonera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
