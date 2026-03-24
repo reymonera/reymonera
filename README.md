@@ -1,4 +1,4 @@
-Welcome to this GitHub repository that has whatever, really. Sometimes there are serious bioinformatics tools, sometimes it is just me updating my webpage, and sometimes it is just me messing around with CSS, that has practically nothing to do with bioinformatics in the first place. When I'm not here I'm probably reading low- or high-quality literature, watching YouTube videoessays, talking about videogames, metal and tokusatsu references on Discord, fighting on Reddit, scrollin' on social media to watch lo-fi Sanrio characters doing something, getting lost in the Thuringian forest or biking.
+Welcome to this GitHub repository that has whatever, really. Sometimes there are serious bioinformatics tools, sometimes it is just me updating my webpage, and sometimes it is just me messing around with CSS, that has practically nothing to do with bioinformatics in the first place. When I'm not here I'm probably reading low- or high-quality literature, adapting peruvian receipts to german ingredients on Sunday, fighting on Reddit, getting lost in the Thuringian forest or biking.
 
 Fun-fact: Everything in japanese pop media returns to Ultraman and Kamen Raider.
 
